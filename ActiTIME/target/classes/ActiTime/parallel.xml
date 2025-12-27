@@ -1,0 +1,11 @@
+<suite name="ActiTime Suite" parallel="classes" thread-count="3">
+
+    <test name="ActiTime Parallel Tests">
+        <classes>
+            <class name="ActiTime.Case1"/>
+            <class name="ActiTime.Case2"/>
+            <class name="ActiTime.Case3"/>
+        </classes>
+    </test>
+
+</suite>
